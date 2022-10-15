@@ -1,0 +1,6 @@
+framework module Pods_SkeletonViewDemoProjecct {
+  umbrella header "Pods-SkeletonViewDemoProjecct-umbrella.h"
+
+  export *
+  module * { export * }
+}
